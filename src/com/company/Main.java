@@ -12,7 +12,7 @@ public class Main {
         frame.setVisible(true);
         JButton button = new JButton("Button");
         button.setVisible(true);
-        button.setBackground(Color.RED);
+        button.setBackground(Color.GREEN);
         frame.getContentPane().add(button);
         //button.getColorModel();
     }
